@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Front end Developing.
 - 📫 You can contact me through mail vugar960305@gmail.com 
+- My Cv is here https://resume.io/r/jUaydWZ9A .
 
 <!---
 vugar143/vugar143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
