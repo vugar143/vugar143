@@ -2,7 +2,7 @@
 - 👀 I’m interested in React developing job applications.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Front end Developing.
-- 📫 You can contact me through mail vugar960305@gmail.com 
+- 📫 You can contact me through mail badal.vugar@gmail.com 
 - My Cv is here https://resume.io/r/jUaydWZ9A .
 
 <!---
